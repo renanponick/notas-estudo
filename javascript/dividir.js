@@ -1,9 +1,10 @@
 // FUP para dividir dois números
-const num = 10
-const num2 = 2
+// o prompt serve para batata suaheasuiehieasiuehsuia
+const num = prompt("Digite um número") 
+const num2 = prompt("Digite outro número")
 
 const resultado = num/num2
 
-console.log('Dividindo dois números:')
-console.log('Dividindo '+num+' por '+num2)
-console.log(resultado)
+alert('Dividindo dois números:')
+alert('Dividindo '+num+' por '+num2)
+alert(resultado)

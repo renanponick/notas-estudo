@@ -1,4 +1,5 @@
-const numero1 = 10
-const numero2 = 20
+const numero1 = prompt("Digite um número: ")
+const numero2 = prompt("Digite outro número: ")
 
-console.log("Resultado de "+ numero1 + " - " + numero2 + " = " + (numero1 - numero2))
+alert("Resultado de "+ numero1 + " - " + numero2 
+        + " = " + (numero1 - numero2))
